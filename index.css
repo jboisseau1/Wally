@@ -1,0 +1,23 @@
+html,
+body {
+  -webkit-app-region: drag;
+  background-color: transparent !important;
+}
+button {
+  outline: none !important;
+}
+#title-bar {
+  height: 24px;
+  padding: none;
+}
+
+#title {
+  font-family: 'Megrim', cursive;
+  top: 0px;
+  left: 5px;
+  margin: 0px;
+  font-size: 50px;
+}
+#sub-title {
+  font-family: 'Megrim', cursive;
+}
