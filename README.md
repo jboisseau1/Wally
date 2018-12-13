@@ -1,21 +1,19 @@
-Wally is a wallpaper changing app that draws from Reddit top posts.
+# Wally
 
-Made to run on MacOS.
+##### Wally is a wallpaper changing app that draws from Reddit top posts.
 
-Started by THE Fahad Ashraf.
+##### Made to run on MacOS.
 
-Running dev env
+##### Started by **THE** Fahad Ashraf.
 
-###
+### Running dev env
 
+```
 npm run start
+```
 
-###
+### Build for release
 
-Build for release
-
-###
-
+```
 npm run build
-
-###
+```
